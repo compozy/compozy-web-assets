@@ -1,0 +1,1 @@
+import{Gr as e}from"./agent-DbCc2Vh_.js";var t=e(`loops`);export{t as component};
