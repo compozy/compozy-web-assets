@@ -1,0 +1,1 @@
+import{Gr as e}from"./agent-CC8gnSui.js";var t=e(`sandbox`);export{t as component};
