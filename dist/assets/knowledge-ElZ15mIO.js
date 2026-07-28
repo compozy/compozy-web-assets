@@ -1,0 +1,1 @@
+import{qr as e}from"./agent-CBUPCOkS.js";var t=e(`knowledge`);export{t as component};

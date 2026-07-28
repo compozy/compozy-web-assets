@@ -1,0 +1,1 @@
+import{qr as e}from"./agent-CBUPCOkS.js";var t=e(`jobs`);export{t as component};

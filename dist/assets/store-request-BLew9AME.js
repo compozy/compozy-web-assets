@@ -1,0 +1,1 @@
+function e({notAcceptedMessage:e,request:t,resolveSettlement:n,subscribeAccepted:r,subscribeSettled:i}){return new Promise((a,o)=>{let s,c,l,u=()=>{c?.unsubscribe(),l?.unsubscribe()};try{c=r(e=>{s??=e.requestId}),l=i(e=>{if(e.requestId===s){u();try{a(n(e))}catch(e){o(e)}}}),t(),s===void 0&&(u(),o(Error(e)))}catch(e){u(),o(e)}})}export{e as t};
