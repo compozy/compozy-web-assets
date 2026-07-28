@@ -1,1 +1,0 @@
-import{Gr as e}from"./agent-CC8gnSui.js";var t=e(`settings`);export{t as component};

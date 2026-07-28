@@ -1,0 +1,1 @@
+import{Gr as e}from"./agent-C7fWZddS.js";var t=e(`jobs`);export{t as component};
