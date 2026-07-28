@@ -1,1 +1,0 @@
-import{qr as e}from"./agent-CBUPCOkS.js";var t=e(`network`);export{t as component};

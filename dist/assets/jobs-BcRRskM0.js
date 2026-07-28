@@ -1,0 +1,1 @@
+import{qr as e}from"./agent-Bu2szUrD.js";var t=e(`jobs`);export{t as component};
