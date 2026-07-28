@@ -1,0 +1,1 @@
+import{Kr as e}from"./agent-kRg8wp7S.js";var t=e;export{t as component};
