@@ -1,0 +1,1 @@
+import{Gr as e}from"./agent-C0lwsH9K.js";var t=e(`settings`);export{t as component};
