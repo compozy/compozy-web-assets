@@ -1,1 +1,0 @@
-import{qr as e}from"./agent-Bu2szUrD.js";var t=e(`settings`);export{t as component};
