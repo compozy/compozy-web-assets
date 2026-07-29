@@ -1,1 +1,0 @@
-import{Xr as e}from"./agent-DtJ1mfNR.js";var t=e(`knowledge`);export{t as component};
