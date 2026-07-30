@@ -1,1 +1,0 @@
-import{Zr as e}from"./agent-BwQ_pTnR.js";var t=e(`settings`);export{t as component};
