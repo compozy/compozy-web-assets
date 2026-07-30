@@ -1,0 +1,1 @@
+import{Zr as e}from"./agent-BdkPjITz.js";var t=e(`knowledge`);export{t as component};

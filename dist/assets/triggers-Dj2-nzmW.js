@@ -1,0 +1,1 @@
+import{Zr as e}from"./agent-BdkPjITz.js";var t=e(`triggers`);export{t as component};

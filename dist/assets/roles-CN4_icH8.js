@@ -1,1 +1,0 @@
-import{Zr as e}from"./agent-DtzEV8pN.js";var t=e(`settings`);export{t as component};
