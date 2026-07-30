@@ -1,1 +1,0 @@
-import{Zr as e}from"./agent-KKbtowI0.js";var t=e(`marketplace`);export{t as component};

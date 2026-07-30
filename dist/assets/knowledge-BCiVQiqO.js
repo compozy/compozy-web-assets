@@ -1,1 +1,0 @@
-import{Zr as e}from"./agent-KKbtowI0.js";var t=e(`knowledge`);export{t as component};

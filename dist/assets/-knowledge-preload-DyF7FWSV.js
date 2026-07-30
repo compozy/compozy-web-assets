@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-C_JxhDyB.js";import{m as t}from"./knowledge-9w82OCP6.js";import{n}from"./-route-preload-ChHuD0oX.js";var r=e({preloadKnowledgeRoute:()=>a}),i={scope:`global`,includeSystem:!1,limit:50,sort:`recent`};function a(e){return n([e.ensureInfiniteQueryData(t(i))])}export{a as n,r as t};

@@ -1,0 +1,1 @@
+import{Zr as e}from"./agent-CzRGB0wS.js";var t=e(`network`);export{t as component};
