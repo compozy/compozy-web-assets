@@ -1,1 +1,0 @@
-import{yi as e}from"./agent-FYyJhCsJ.js";var t=e(`dashboard`);export{t as component};

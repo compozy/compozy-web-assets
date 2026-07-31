@@ -1,0 +1,1 @@
+import{yi as e}from"./agent-0VHi4zp7.js";var t=e(`sandbox`);export{t as component};
