@@ -1,1 +1,0 @@
-import{Zr as e}from"./agent-BdkPjITz.js";var t=e(`sandbox`);export{t as component};
