@@ -1,1 +1,0 @@
-import{yi as e}from"./agent-BQa56xtH.js";var t=e(`triggers`);export{t as component};

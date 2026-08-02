@@ -1,0 +1,1 @@
+import{yi as e}from"./agent-_nf4endr.js";var t=e(`new-tab`);export{t as component};
