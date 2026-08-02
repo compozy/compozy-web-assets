@@ -1,0 +1,1 @@
+import{yi as e}from"./agent-DTZcYMlF.js";var t=e(`knowledge`);export{t as component};

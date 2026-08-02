@@ -1,1 +1,0 @@
-import{yi as e}from"./agent-_nf4endr.js";var t=e(`sandbox`);export{t as component};
