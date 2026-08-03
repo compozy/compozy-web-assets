@@ -1,1 +1,0 @@
-import{yi as e}from"./agent-DTZcYMlF.js";var t=e(`new-tab`);export{t as component};

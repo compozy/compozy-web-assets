@@ -1,1 +1,0 @@
-import{yi as e}from"./agent-DTZcYMlF.js";var t=e(`network`);export{t as component};

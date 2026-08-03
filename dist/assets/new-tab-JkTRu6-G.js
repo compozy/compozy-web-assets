@@ -1,0 +1,1 @@
+import{yi as e}from"./agent-VJuAdRsL.js";var t=e(`new-tab`);export{t as component};
