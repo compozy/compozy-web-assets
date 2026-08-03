@@ -1,0 +1,1 @@
+import{yi as e}from"./agent-CdRyO-XC.js";var t=e(`network`);export{t as component};

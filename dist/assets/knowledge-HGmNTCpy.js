@@ -1,0 +1,1 @@
+import{yi as e}from"./agent-CdRyO-XC.js";var t=e(`knowledge`);export{t as component};

@@ -1,1 +1,0 @@
-import{yi as e}from"./agent-phgGtony.js";var t=e(`triggers`);export{t as component};
