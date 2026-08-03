@@ -1,0 +1,1 @@
+import{yi as e}from"./agent-LRt00a7t.js";var t=e(`vault`);export{t as component};

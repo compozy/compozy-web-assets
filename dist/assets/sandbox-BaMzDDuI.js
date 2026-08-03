@@ -1,0 +1,1 @@
+import{yi as e}from"./agent-LRt00a7t.js";var t=e(`sandbox`);export{t as component};
