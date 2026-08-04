@@ -1,0 +1,1 @@
+import{Wi as e}from"./agent-BT7cl3CM.js";var t=e(`marketplace`);export{t as component};

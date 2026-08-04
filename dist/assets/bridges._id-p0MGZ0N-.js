@@ -1,1 +1,0 @@
-import{Ui as e}from"./agent-D0TtrkQ4.js";var t=e(`bridges`);export{t as component};

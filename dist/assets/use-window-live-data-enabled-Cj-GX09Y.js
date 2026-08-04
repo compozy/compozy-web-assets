@@ -1,0 +1,1 @@
+import{n as e}from"./react-runtime-Dx7ViSeT.js";import{ko as t}from"./agent-BT7cl3CM.js";var n=e();function r(e){let r=(0,n.c)(2),i;return r[0]===e?i=r[1]:(i=t=>{let n=t.windows[e];return n!==void 0&&t.focusedId===e&&t.activeDesktopId===n.desktopId&&!n.minimized},r[0]=e,r[1]=i),t(i)}export{r as t};
