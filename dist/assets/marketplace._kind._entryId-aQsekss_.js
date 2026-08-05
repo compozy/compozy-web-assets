@@ -1,1 +1,0 @@
-import{Wi as e}from"./agent-lhZ27dsR.js";var t=e(`marketplace`);export{t as component};

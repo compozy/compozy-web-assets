@@ -1,1 +1,0 @@
-import{Wi as e}from"./agent-lhZ27dsR.js";var t=e(`triggers`);export{t as component};

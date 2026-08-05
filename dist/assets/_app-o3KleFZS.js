@@ -1,0 +1,1 @@
+import{Ki as e}from"./agent-Cl9MCBcO.js";var t=e(`dashboard`);export{t as component};

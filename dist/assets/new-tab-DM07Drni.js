@@ -1,0 +1,1 @@
+import{Ki as e}from"./agent-Cl9MCBcO.js";var t=e(`new-tab`);export{t as component};
