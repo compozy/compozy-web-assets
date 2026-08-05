@@ -1,0 +1,1 @@
+import{Wi as e}from"./agent-lhZ27dsR.js";var t=e(`settings`);export{t as component};

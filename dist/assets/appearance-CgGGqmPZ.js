@@ -1,1 +1,0 @@
-import{Wi as e}from"./agent-BT7cl3CM.js";var t=e(`settings`);export{t as component};
