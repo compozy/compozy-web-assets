@@ -1,0 +1,1 @@
+import{ta as e}from"./agent-G1PzBQpf.js";var t=e(`bridges`);export{t as component};

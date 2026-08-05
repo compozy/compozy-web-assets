@@ -1,1 +1,0 @@
-import{ea as e}from"./agent-DLSGNPGi.js";var t=e(`new-tab`);export{t as component};

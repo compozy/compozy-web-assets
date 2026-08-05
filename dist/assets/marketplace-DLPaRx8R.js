@@ -1,1 +1,0 @@
-import{ea as e}from"./agent-DLSGNPGi.js";var t=e(`marketplace`);export{t as component};

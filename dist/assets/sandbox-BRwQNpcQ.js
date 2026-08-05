@@ -1,1 +1,0 @@
-import{ea as e}from"./agent-DLSGNPGi.js";var t=e(`sandbox`);export{t as component};

@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-C_s2cVnS.js";import{gs as t}from"./agent-DLSGNPGi.js";import{n}from"./-route-preload-BLEvhi9T.js";var r=e({preloadVaultRoute:()=>i});function i(e,r={}){return n([e.ensureQueryData(t(r))])}export{i as n,r as t};
