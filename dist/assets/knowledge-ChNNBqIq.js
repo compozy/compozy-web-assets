@@ -1,0 +1,1 @@
+import{ea as e}from"./agent-DLSGNPGi.js";var t=e(`knowledge`);export{t as component};

@@ -1,0 +1,1 @@
+import{ea as e}from"./agent-DLSGNPGi.js";var t=e(`loops`);export{t as component};

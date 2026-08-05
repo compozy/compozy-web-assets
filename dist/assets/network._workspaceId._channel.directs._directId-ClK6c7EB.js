@@ -1,1 +1,0 @@
-import{Ki as e}from"./agent-Cl9MCBcO.js";var t=e(`network`);export{t as component};
