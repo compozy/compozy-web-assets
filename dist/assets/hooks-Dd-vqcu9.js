@@ -1,1 +1,0 @@
-import{ta as e}from"./agent-KGX98gQM.js";var t=e(`settings`);export{t as component};

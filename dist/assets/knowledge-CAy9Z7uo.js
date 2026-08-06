@@ -1,0 +1,1 @@
+import{ta as e}from"./agent-DbDevixI.js";var t=e(`knowledge`);export{t as component};

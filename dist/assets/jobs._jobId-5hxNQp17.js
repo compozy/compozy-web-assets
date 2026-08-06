@@ -1,0 +1,1 @@
+import{ta as e}from"./agent-DbDevixI.js";var t=e(`jobs`);export{t as component};
