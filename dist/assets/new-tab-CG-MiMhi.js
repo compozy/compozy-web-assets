@@ -1,1 +1,0 @@
-import{ta as e}from"./agent-G1PzBQpf.js";var t=e(`new-tab`);export{t as component};

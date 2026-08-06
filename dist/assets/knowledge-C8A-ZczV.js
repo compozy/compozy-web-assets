@@ -1,0 +1,1 @@
+import{ta as e}from"./agent-KGX98gQM.js";var t=e(`knowledge`);export{t as component};

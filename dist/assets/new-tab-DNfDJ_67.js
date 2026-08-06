@@ -1,0 +1,1 @@
+import{ta as e}from"./agent-KGX98gQM.js";var t=e(`new-tab`);export{t as component};

@@ -1,1 +1,0 @@
-import{ta as e}from"./agent-G1PzBQpf.js";var t=e(`knowledge`);export{t as component};

@@ -1,0 +1,1 @@
+import{ta as e}from"./agent-KGX98gQM.js";var t=e(`sandbox`);export{t as component};

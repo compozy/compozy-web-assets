@@ -1,0 +1,1 @@
+import{ta as e}from"./agent-KGX98gQM.js";var t=e(`marketplace`);export{t as component};
