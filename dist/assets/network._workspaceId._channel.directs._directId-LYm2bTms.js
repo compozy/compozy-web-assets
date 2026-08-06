@@ -1,0 +1,1 @@
+import{ta as e}from"./agent-nF941flQ.js";var t=e(`network`);export{t as component};
