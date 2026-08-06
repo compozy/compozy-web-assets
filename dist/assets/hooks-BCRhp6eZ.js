@@ -1,0 +1,1 @@
+import{ta as e}from"./agent-Dp6WP0eN.js";var t=e(`settings`);export{t as component};

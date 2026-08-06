@@ -1,1 +1,0 @@
-import{ta as e}from"./agent-nF941flQ.js";var t=e(`triggers`);export{t as component};
