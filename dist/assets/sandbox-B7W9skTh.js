@@ -1,0 +1,1 @@
+import{ra as e}from"./agent-BNsrqVjD.js";var t=e(`sandbox`);export{t as component};

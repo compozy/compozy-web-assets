@@ -1,0 +1,1 @@
+import{ra as e}from"./agent-BNsrqVjD.js";var t=e(`new-tab`);export{t as component};
