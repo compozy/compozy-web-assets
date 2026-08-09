@@ -1,1 +1,0 @@
-import{ra as e}from"./agent-DM_MoXWR.js";var t=e(`new-tab`);export{t as component};
