@@ -1,1 +1,0 @@
-import{na as e}from"./extensions-BYY5gzRu.js";var t=e(`vault`);export{t as component};
