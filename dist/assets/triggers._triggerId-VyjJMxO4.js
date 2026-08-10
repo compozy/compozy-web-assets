@@ -1,0 +1,1 @@
+import{na as e}from"./extensions-DRbhJ7Fq.js";var t=e(`triggers`);export{t as component};

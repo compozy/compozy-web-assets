@@ -1,4 +1,4 @@
-// Package webassets embeds the production Compozy web UI bundle.
+// Package webassets embeds the production CompozyOS web UI bundle.
 package webassets
 
 import "embed"
@@ -7,12 +7,12 @@ import "embed"
 const DistDir = "dist"
 
 const (
-	BuildDigest = "e88211a8a1b9cc6bf08cd1accddef3fc9aee6f822ae742dfb6e16e5913895ffa"
+	BuildDigest = "3cd9d5380fb2bed75993ac513da02501f1eb8063b5601420a498a76a2cda8d98"
 	SourceRepository = "github.com/compozy/compozy"
-	SourceCommit = "467a0f88cd1128aa258cc411219a19ad7cd660f5"
+	SourceCommit = "fb21a4994fa1dc33ed20c0ac14945b143079e27c"
 )
 
-// DistFS embeds the generated production Compozy web UI bundle.
+// DistFS embeds the generated production CompozyOS web UI bundle.
 //
 //go:embed all:dist
 var DistFS embed.FS
