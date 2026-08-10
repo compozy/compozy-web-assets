@@ -1,0 +1,1 @@
+import{na as e}from"./extensions-B5jNcSM_.js";var t=e(`bridges`);export{t as component};

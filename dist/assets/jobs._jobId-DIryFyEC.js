@@ -1,1 +1,0 @@
-import{na as e}from"./extensions-DRbhJ7Fq.js";var t=e(`jobs`);export{t as component};

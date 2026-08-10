@@ -1,1 +1,0 @@
-import{na as e}from"./extensions-DRbhJ7Fq.js";var t=e(`dashboard`);export{t as component};

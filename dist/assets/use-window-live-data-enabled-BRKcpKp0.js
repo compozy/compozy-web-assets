@@ -1,1 +1,0 @@
-import{n as e}from"./react-runtime-Dx7ViSeT.js";import{sa as t}from"./extensions-DRbhJ7Fq.js";var n=e();function r(e){let r=(0,n.c)(2),i;return r[0]===e?i=r[1]:(i=t=>{let n=t.windows[e];return n!==void 0&&t.activeDesktopId===n.desktopId&&!n.minimized&&n.stackActive},r[0]=e,r[1]=i),t(i)}export{r as t};
