@@ -1,0 +1,1 @@
+import{na as e}from"./extensions-B2aAH5s4.js";var t=e(`sandbox`);export{t as component};

@@ -1,1 +1,0 @@
-import{na as e}from"./extensions-DfKz-tS7.js";var t=e(`marketplace`);export{t as component};

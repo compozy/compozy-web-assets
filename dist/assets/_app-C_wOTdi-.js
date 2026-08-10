@@ -1,0 +1,1 @@
+import{ta as e}from"./extensions-B2aAH5s4.js";var t=e;export{t as notFoundComponent};

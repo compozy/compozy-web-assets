@@ -1,1 +1,0 @@
-import{na as e}from"./extensions-DfKz-tS7.js";var t=e(`new-tab`);export{t as component};

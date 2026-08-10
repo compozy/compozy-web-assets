@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-C_s2cVnS.js";import{Fa as t}from"./extensions-DfKz-tS7.js";import{n}from"./-route-preload-CEpLtieH.js";var r=e({preloadVaultRoute:()=>i});function i(e,r={}){return n([e.ensureQueryData(t(r))])}export{i as n,r as t};
