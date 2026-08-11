@@ -1,0 +1,1 @@
+import{na as e}from"./extensions-FOQ5Fm3k.js";var t=e(`dashboard`);export{t as component};

@@ -1,1 +1,0 @@
-import{na as e}from"./extensions-B5jNcSM_.js";var t=e(`new-tab`);export{t as component};

@@ -1,1 +1,0 @@
-import{ta as e}from"./extensions-B5jNcSM_.js";var t=e;export{t as notFoundComponent};
