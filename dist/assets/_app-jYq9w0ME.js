@@ -1,0 +1,1 @@
+import{na as e}from"./extensions-B1uaLaok.js";var t=e;export{t as notFoundComponent};

@@ -1,1 +1,0 @@
-import{na as e}from"./extensions-FOQ5Fm3k.js";var t=e(`new-tab`);export{t as component};

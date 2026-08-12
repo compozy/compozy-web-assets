@@ -1,1 +1,0 @@
-import{na as e}from"./extensions-FOQ5Fm3k.js";var t=e(`bridges`);export{t as component};

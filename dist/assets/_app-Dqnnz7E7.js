@@ -1,0 +1,1 @@
+import{ra as e}from"./extensions-B1uaLaok.js";var t=e(`dashboard`);export{t as component};
