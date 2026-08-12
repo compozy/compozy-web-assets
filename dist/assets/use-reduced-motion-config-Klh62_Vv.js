@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C_s2cVnS.js";import{c as t}from"./react-runtime-Dx7ViSeT.js";import{i as n,n as r,r as i,t as a}from"./MotionConfigContext-Bd382IpX.js";var o=e(t(),1);function s(){!i.current&&r();let[e]=(0,o.useState)(n.current);return e}function c(){let e=s(),{reducedMotion:t}=(0,o.useContext)(a);return t===`never`?!1:t===`always`||e}export{c as t};

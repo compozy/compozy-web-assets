@@ -1,0 +1,1 @@
+var e={all:[`workspaces`],lists:()=>[...e.all,`list`],list:()=>[...e.lists()],details:()=>[...e.all,`detail`],detail:t=>[...e.details(),t]};export{e as t};

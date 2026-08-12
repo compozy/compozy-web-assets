@@ -1,0 +1,1 @@
+import{n as e}from"./dist-cArS4LJr.js";function t({message:t,tone:n}){e[n](t)}export{t};

@@ -1,0 +1,1 @@
+import{t as e}from"./os-route-sync-DVn1jSP6.js";var t=e(`network`);export{t as component};

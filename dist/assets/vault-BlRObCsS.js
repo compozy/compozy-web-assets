@@ -1,0 +1,1 @@
+import{t as e}from"./os-route-sync-DVn1jSP6.js";var t=e(`vault`);export{t as component};

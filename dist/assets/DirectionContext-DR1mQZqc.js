@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C_s2cVnS.js";import{c as t}from"./react-runtime-Dx7ViSeT.js";var n=e(t(),1),r=n.createContext(void 0);function i(){return n.useContext(r)?.direction??`ltr`}export{i as t};

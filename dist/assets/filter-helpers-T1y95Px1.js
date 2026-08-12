@@ -1,0 +1,1 @@
+var e=e=>`fields`in e&&Array.isArray(e.fields),t=e=>!!(e.group&&e.fields),n=n=>{let r=[];for(let i of n)e(i)||t(i)&&i.fields?r.push(...i.fields):r.push(i);return r},r=e=>n(e).reduce((e,t)=>(t.key&&(e[t.key]=t),e),{}),i=(e,t,n=[])=>({id:`${Date.now()}-${Math.random().toString(36).substring(2,11)}`,field:e,operator:t||`is`,values:n});export{n,r,i as t};
