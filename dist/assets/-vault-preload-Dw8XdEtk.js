@@ -1,1 +1,0 @@
-import{n as e}from"./query-options-bYO6JPyx.js";import{w as t}from"./index-Ds14shg9.js";function n(n,r={}){return t([n.ensureQueryData(e(r))])}export{n as preloadVaultRoute};
