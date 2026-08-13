@@ -1,1 +1,0 @@
-import{n as e}from"./xstate-store-react-BJzGkZoH.js";import{i as t,n}from"./xstate-store-persist-BdJgGE2D.js";import{n as r,t as i}from"./active-workspace-store-Wqxqf7yq.js";function a(e,t){if(t){let n=e.find(e=>e.id===t);if(n)return n}return e[0]}function o(){return e(i.selectedWorkspaceId)}function s(){return n(r)}function c(){return t(r)}export{a as i,c as n,o as r,s as t};

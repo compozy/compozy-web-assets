@@ -1,1 +1,0 @@
-function e(e,t){return!!(t&&t.length>0&&e.root_dir===t)}function t(t,n){let r=t??[],i=r.find(t=>e(t,n));return i?{homeWorkspace:i,projectWorkspaces:r.filter(e=>e.id!==i.id)}:{homeWorkspace:void 0,projectWorkspaces:[...r]}}export{t as n,e as t};
