@@ -1,0 +1,1 @@
+import{w as e}from"./index-0Rkmt1Eq.js";import{t}from"./query-options-VyGv6hYB.js";var n={scope:`global`,includeSystem:!1,limit:50,sort:`recent`};function r(r){return e([r.ensureInfiniteQueryData(t(n))])}export{r as preloadKnowledgeRoute};
