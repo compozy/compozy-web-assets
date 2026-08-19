@@ -1,0 +1,1 @@
+function e(e){if(!(e instanceof HTMLElement))return!1;if(e.isContentEditable)return!0;let t=e.tagName;return t===`TEXTAREA`||t===`INPUT`||t===`SELECT`}export{e as t};
