@@ -1,0 +1,1 @@
+import{n as e,s as t}from"./react-runtime-Dx7ViSeT.js";import{n}from"./pill-CNrf1TUs.js";var r=e(),i=t();function a(){let e=(0,r.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,i.jsx)(n,{"data-testid":`settings-live-chip`,size:`xs`,tone:`success`,children:`Applies now`}),e[0]=t):t=e[0],t}export{a as t};

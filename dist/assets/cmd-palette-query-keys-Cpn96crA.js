@@ -1,1 +1,0 @@
-function e(e){let t=typeof e==`string`?e.trim():``;return t===``?`__unattached__`:t}var t={all:[`cmd-palette`],catalogs:()=>[...t.all,`catalog`],workspaceCatalogs:e=>[...t.catalogs(),e.trim()],catalog:(n,r)=>[...t.workspaceCatalogs(n),e(r)],rankSignals:e=>[...t.all,`rank-signals`,e.trim()],views:()=>[...t.all,`views`],view:(e,n)=>[...t.views(),e.trim(),n.trim()]};export{t};

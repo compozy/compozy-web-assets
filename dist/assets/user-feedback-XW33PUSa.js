@@ -1,1 +1,0 @@
-import{n as e}from"./dist-cArS4LJr.js";function t({message:t,tone:n,action:r}){if(r===void 0){e[n](t);return}e[n](t,{action:r})}export{t};

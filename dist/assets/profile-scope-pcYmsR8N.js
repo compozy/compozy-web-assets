@@ -1,0 +1,1 @@
+var e=`@all`;function t(e){return e.kind===`aggregate`?{all_profiles:!0}:{profile:e.profile}}function n(t){return t.kind===`aggregate`?e:t.profile}function r(e){return{id:e.profile_id,name:e.profile_name,color:e.profile_color,icon:e.profile_icon??null,emoji:e.profile_emoji??null,archived:e.profile_archived===!0}}export{e as i,t as n,n as r,r as t};
