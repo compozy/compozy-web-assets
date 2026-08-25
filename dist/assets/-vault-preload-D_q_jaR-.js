@@ -1,0 +1,1 @@
+import{n as e}from"./query-options-bYO6JPyx.js";import{_ as t}from"./index-0MudRASA.js";function n(n,r={}){return t([n.ensureQueryData(e(r))])}export{n as preloadVaultRoute};
