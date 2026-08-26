@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C_s2cVnS.js";import{c as t,s as n}from"./react-runtime-CGYd33fF.js";var r=e(t(),1),i=n();function a({children:e,fallback:t=null}){return(0,i.jsx)(r.Fragment,{children:o()?e:t})}function o(){return r.useSyncExternalStore(s,()=>!0,()=>!1)}function s(){return()=>{}}export{o as n,a as t};

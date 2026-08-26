@@ -1,0 +1,1 @@
+import{t as e}from"./os-route-sync-dFDIpuQs.js";var t=e(`knowledge`);export{t as component};

@@ -1,1 +1,0 @@
-function e(e,t){return e===t?e!==0||t!==0||1/e==1/t:e!==e&&t!==t}function t(t,n){if(e(t,n))return!0;if(typeof t!=`object`||!t||typeof n!=`object`||!n)return!1;let r=Object.keys(t),i=Object.keys(n);if(r.length!==i.length)return!1;for(let i=0;i<r.length;i++)if(!Object.prototype.hasOwnProperty.call(n,r[i])||!e(t[r[i]],n[r[i]]))return!1;return!0}export{t};
