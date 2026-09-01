@@ -1,1 +1,0 @@
-import{n as e}from"./profile-rows-DfnxK0ZP.js";import{t}from"./query-options-_-KpwAPu.js";import{_ as n,_r as r,yr as i}from"./index-DIsQxRSZ.js";var a={scope:`profile`,includeSystem:!1,limit:50,sort:`recent`};function o(o){let s=e(i(o,r()));return n([o.ensureInfiniteQueryData(t({...a,profile:s}))])}export{o as preloadKnowledgeRoute};
