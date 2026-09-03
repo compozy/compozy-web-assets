@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C_s2cVnS.js";import{c as t}from"./react-runtime-CGYd33fF.js";import{t as n}from"./os-shell-context-Dk5nx60S.js";var r=e(t(),1);function i(){let e=(0,r.use)(n);if(e===null)throw Error(`useOsShell requires an <OsShellContext.Provider> above (DesktopShell).`);return e}export{i as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./os-route-sync-2ngcAwyS.js";var t=e(`network`);export{t as component};

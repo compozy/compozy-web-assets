@@ -1,0 +1,1 @@
+function e(e){let t=e.display_name?.trim(),n=e.harness?.trim(),r=e.runtime_provider?.trim();return{id:e.name,name:t||e.name,...n?{harness:n}:{},runtime_provider:r||e.name,runtime_strategy:e.runtime_strategy}}export{e as t};
