@@ -1,1 +1,0 @@
-import{n as e}from"./use-runtime-model-catalog-M40bAr5Q.js";function t(t){let n=t.settings.display_name?.trim(),r=t.settings.harness?.trim(),i=t.settings.runtime_provider?.trim();return{id:t.name,name:n||t.name,...r?{harness:r}:{},...i?{runtime_provider:i}:{},runtime_strategy:t.runtime_strategy,needs_auth:e(t.auth_status?.state)}}export{t};
