@@ -1,1 +1,0 @@
-var e=`/settings`,t=`general`;function n(t){return`${e}/${t}`}export{e as n,n as r,t};
