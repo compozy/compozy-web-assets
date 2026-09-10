@@ -1,1 +1,0 @@
-import{t as e}from"./os-route-sync-2ngcAwyS.js";var t=e(`vault`);export{t as component};
