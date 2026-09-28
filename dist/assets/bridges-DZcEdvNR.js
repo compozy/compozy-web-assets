@@ -1,1 +1,0 @@
-import{t as e}from"./os-route-sync-dFDIpuQs.js";var t=e(`bridges`);export{t as component};
