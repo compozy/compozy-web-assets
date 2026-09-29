@@ -1,0 +1,1 @@
+function e(e,t){return e.scope===`global`||typeof t==`string`&&t!==``&&e.workspace_id===t}function t(t,n,r,i){return i||!n||e(n,r)?null:Error(`This ${t} belongs to another project.`)}export{t as n,e as t};
