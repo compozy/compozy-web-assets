@@ -1,0 +1,1 @@
+import{S as e,t}from"./schemas-B7DTO8y_.js";function n(n){return e(t,n)}export{n as t};

@@ -1,1 +1,0 @@
-import{t as e}from"./os-route-sync-dFDIpuQs.js";var t=e(`triggers`);export{t as component};

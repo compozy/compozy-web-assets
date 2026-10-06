@@ -1,0 +1,1 @@
+import{t as e}from"./os-route-sync-C5ZXVg1A.js";var t=e(`loops`);export{t as component};
