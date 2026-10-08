@@ -1,0 +1,1 @@
+function e(e,t){return e?.scope===`workspace`?e.workspace_id:t}function t(e,t){return t===null||e.scope===`global`||typeof t==`string`&&t!==``&&e.workspace_id===t}function n(e,n,r){return r||!e||t(e,n)?null:Error(`This automation belongs to another project. Switch to it to open this page.`)}export{t as n,n as r,e as t};
