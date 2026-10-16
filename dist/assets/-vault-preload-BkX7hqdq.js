@@ -1,1 +1,0 @@
-import{t as e}from"./query-options-lkmieNVH.js";import{a as t}from"./index-C-UrCN61.js";function n(n,r={}){return t([n.ensureQueryData(e(r))])}export{n as preloadVaultRoute};
