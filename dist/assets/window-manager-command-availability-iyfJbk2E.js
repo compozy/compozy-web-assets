@@ -1,0 +1,1 @@
+function e(e){return e.snapshot!==null&&e.client!==null&&e.windowManagerConfig!==null&&e.hydration===`live`}export{e as t};
