@@ -1,0 +1,1 @@
+import{d as e,p as t,s as n}from"./destination-Dh3Hyz3_.js";var r=`workspace`;function i(e){return t(e)}function a(e,t){let r=typeof t==`string`?n(t):null;if(r)return r;let i=e?.trim()??``;return i===``?null:i===`global`?{kind:`all`}:i===`user`?{kind:`user`}:{kind:`project`,workspaceId:i}}function o(t){return{[r]:i(e(t))}}export{a as i,o as n,i as r,r as t};
