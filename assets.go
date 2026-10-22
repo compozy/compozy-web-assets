@@ -9,7 +9,7 @@ const DistDir = "dist"
 const (
 	BuildDigest = "2bea4928d83b3b1e711057a50afb806e0a5bbc848f67f5539fdc68e335d3f615"
 	SourceRepository = "github.com/compozy/compozy"
-	SourceCommit = "c3d2fc3634ed0dfb57414cdab305c5c3988b57ed"
+	SourceCommit = "cb4fb0d108d4d683c9c19fa8a1b1e44d8b6377b7"
 )
 
 // DistFS embeds the generated production CompozyOS web UI bundle.
