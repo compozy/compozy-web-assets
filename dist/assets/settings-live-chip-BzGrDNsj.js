@@ -1,1 +1,0 @@
-import{n as e,s as t}from"./react-runtime-RiFB0l0u.js";import{u as n}from"./native-select-D2WeQtp9.js";var r=e(),i=t();function a(){let e=(0,r.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,i.jsx)(n,{"data-testid":`settings-live-chip`,size:`xs`,tone:`neutral`,children:`Applies now`}),e[0]=t):t=e[0],t}export{a as t};
