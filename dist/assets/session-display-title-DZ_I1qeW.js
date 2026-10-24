@@ -1,1 +1,0 @@
-function e(e){let t=e.name?.trim(),n=e.agent_name?.trim();return t&&t!==e.id&&t!==n?t:`New session`}export{e as t};
