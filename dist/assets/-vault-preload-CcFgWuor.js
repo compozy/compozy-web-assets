@@ -1,1 +1,0 @@
-import{t as e}from"./query-options-C1bHF_nY.js";import{o as t}from"./index-0tcoDSv-.js";function n(n,r={}){return t([n.ensureQueryData(e(r))])}export{n as preloadVaultRoute};
