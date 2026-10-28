@@ -1,0 +1,1 @@
+var e={all:[`status`],current:()=>[...e.all,`current`]};export{e as t};
