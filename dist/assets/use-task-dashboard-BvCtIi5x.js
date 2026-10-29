@@ -1,1 +1,0 @@
-import{j as e}from"./query-keys-CML_vCpJ.js";import{t}from"./useQuery-BtbFU3aA.js";import{i as n,v as r}from"./workspace-scope-B0t4cN3v.js";function i(e,t){return{...e,...t.refetchIntervalMs===void 0?{}:{refetchInterval:t.refetchIntervalMs}}}function a(a,o){let s=a===void 0?{}:a,c=o===void 0?{}:o,{params:l}=e();return t(i(n(r(s,l),c.enabled??!0),c))}export{i as n,a as t};
