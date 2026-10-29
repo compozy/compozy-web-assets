@@ -1,1 +1,0 @@
-import{m as e}from"./input-group-SBz2v5Jf.js";export{e as Mermaid};
