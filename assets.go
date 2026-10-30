@@ -7,9 +7,9 @@ import "embed"
 const DistDir = "dist"
 
 const (
-	BuildDigest = "0ff15cd43becff38e8539feccd33a8004c3fc7c2f994990ca28d8d97235cc329"
+	BuildDigest = "b3200762f2589945690124cff300637c608d0af39389745e0dbc2c53aeedd3d4"
 	SourceRepository = "github.com/compozy/compozy"
-	SourceCommit = "55ff6b776eddd80a2362052dd53ce6834f6c476e"
+	SourceCommit = "e6457afe0629d012928b3e7880eb600f642696cc"
 )
 
 // DistFS embeds the generated production CompozyOS web UI bundle.
