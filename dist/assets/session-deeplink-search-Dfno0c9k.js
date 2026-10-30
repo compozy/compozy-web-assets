@@ -1,0 +1,1 @@
+var e=[`confirm`,`declined`],t=`drawer`,n=`open`;function r(e){return e?.[t]===n}function i(t){let i=t.workspaceSwitch,a=typeof t.workspace==`string`?t.workspace.trim():``;return{...typeof i==`string`&&e.includes(i)?{workspaceSwitch:i}:{},...a===``?{}:{workspace:a},...r(t)?{drawer:n}:{}}}export{i,t as n,r,n as t};
