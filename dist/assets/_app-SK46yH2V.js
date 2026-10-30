@@ -1,1 +1,0 @@
-import{t as e}from"./os-route-sync-1ZZMwoJg.js";var t=e(`dashboard`);export{t as component};

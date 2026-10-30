@@ -1,1 +1,0 @@
-import{t as e}from"./os-route-sync-1ZZMwoJg.js";var t=e(`usage`);export{t as component};

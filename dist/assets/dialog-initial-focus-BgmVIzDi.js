@@ -1,0 +1,1 @@
+function e(e){if(!e)return!0;let t=e.ownerDocument.activeElement;return t instanceof HTMLElement&&t!==e&&e.contains(t)?t:e}export{e as t};

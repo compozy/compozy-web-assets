@@ -1,0 +1,1 @@
+import{n as e}from"./profile-scope-pcYmsR8N.js";import{l as t,r as n}from"./profile-view-store-CKhJhvA_.js";import{n as r}from"./profile-rows-DuwbjI41.js";function i(e){return n()||{kind:`profile`,profile:s(e)??`default`}}function a(t){return e(i(t))}function o(e){return r(i(e),s(e))}function s(e){return e.getQueryData(t.selection())?.profile}export{a as n,i as r,o as t};

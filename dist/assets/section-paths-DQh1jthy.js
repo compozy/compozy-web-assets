@@ -1,0 +1,1 @@
+var e=`/settings`,t=`general`;function n(t){return`${e}/${t}`}var r={defaults:`general`};function i(e){return Object.hasOwn(r,e)?r[e]:null}export{n as i,e as n,i as r,t};

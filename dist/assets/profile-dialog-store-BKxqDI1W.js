@@ -1,0 +1,1 @@
+import{r as e}from"./store-55b22bbd-DlX9T-TB.js";var t=e({context:{intent:null},on:{opened:(e,t)=>({...e,intent:t.intent}),closed:e=>e.intent===null?void 0:{...e,intent:null}}});t.select(e=>e.intent);function n(e){t.trigger.opened({intent:e})}function r(){t.trigger.closed()}export{n,t as r,r as t};

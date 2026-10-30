@@ -1,0 +1,1 @@
+function e(e,t){return Array.from({length:t},(t,n)=>({id:`${e}-${n}`,position:n}))}export{e as t};
