@@ -1,0 +1,1 @@
+import{S as e,t}from"./schemas--jYg4CBg.js";function n(n){return e(t,n)}export{n as t};

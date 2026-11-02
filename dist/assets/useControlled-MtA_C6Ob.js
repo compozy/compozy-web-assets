@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-DSDNlrLa.js";import{c as t}from"./react-runtime-lVg9BFyb.js";var n=e(t(),1);function r({controlled:e,default:t,name:r,state:i=`value`}){let{current:a}=n.useRef(e!==void 0),[o,s]=n.useState(()=>t);return[a&&e!==void 0?e:o,n.useCallback(e=>{a||s(e)},[])]}export{r as t};

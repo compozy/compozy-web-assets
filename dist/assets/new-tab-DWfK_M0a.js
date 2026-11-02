@@ -1,1 +1,0 @@
-import{t as e}from"./os-route-sync-C9fsfXBH.js";var t=e(`new-tab`);export{t as component};

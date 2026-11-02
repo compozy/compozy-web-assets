@@ -1,0 +1,1 @@
+import{t as e}from"./xstate-store-react-l958L7Lm.js";import{t}from"./use-os-shell-qtOyGPBH.js";function n(n,r){let{projection:i}=t();return e(i,n,r)}export{n as t};
