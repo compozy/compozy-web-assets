@@ -1,0 +1,1 @@
+import{n as e}from"./react-runtime-lVg9BFyb.js";import{t}from"./use-runtime-identity-CiAnFJaP.js";var n=e();function r(e){return e.isPending||e.isFetching&&e.data===void 0?`connecting`:e.isSuccess?`connected`:e.isError?`error`:e.isFetching?`connecting`:`disconnected`}function i(){let e=(0,n.c)(2),i=t(),a;return e[0]===i?a=e[1]:(a=r(i),e[0]=i,e[1]=a),a}export{i as t};
