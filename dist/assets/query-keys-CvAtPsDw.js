@@ -1,0 +1,1 @@
+var e={all:[`skills`],listScope:t=>[...e.all,`list`,t],list:(t,n)=>[...e.listScope(t),n??``],detail:(t,n,r)=>[...e.all,`detail`,t,n,r??``],content:(t,n,r)=>[...e.all,`content`,t,n,r??``],shadows:(t,n,r)=>[...e.all,`shadows`,t,n,r??``]};export{e as t};

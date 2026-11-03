@@ -1,1 +1,0 @@
-var e=6e4,t=60*e,n=24*t;function r(r){return r<t?`${Math.max(1,Math.round(r/e))}m`:r<n?`${Math.round(r/t)}h`:`${Math.round(r/n)}d`}function i(e,t=Date.now()){if(!e)return null;let n=Date.parse(e);if(Number.isNaN(n))return null;let i=n-t;return i>=0?`in ${r(i)}`:`${r(-i)} ago`}export{i as t};
