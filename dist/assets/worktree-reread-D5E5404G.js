@@ -1,0 +1,1 @@
+var e=1e3;function t(e,t,n){let r,i,a=()=>{r!==void 0&&clearTimeout(r),i!==void 0&&clearTimeout(i),r=void 0,i=void 0,e()};return{request:()=>{r!==void 0&&clearTimeout(r),r=setTimeout(a,t),i===void 0&&(i=setTimeout(a,n))},flush:()=>{(r!==void 0||i!==void 0)&&a()}}}export{t as n,e as t};
