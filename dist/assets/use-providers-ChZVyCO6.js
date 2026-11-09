@@ -1,1 +1,0 @@
-import{n as e}from"./react-runtime-lVg9BFyb.js";import{t}from"./useQuery-l2ZYpaSz.js";import{t as n}from"./query-options-DZcAR7ob.js";var r=e();function i(){let e=(0,r.c)(1),i;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(i=n(),e[0]=i):i=e[0],t(i)}export{i as t};
