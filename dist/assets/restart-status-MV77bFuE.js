@@ -1,1 +1,0 @@
-var e=new Set([`ready`,`failed`]);function t(t){return t?e.has(t):!1}function n(e){return e===`ready`}function r(e){return e===`failed`}export{n,t as r,r as t};

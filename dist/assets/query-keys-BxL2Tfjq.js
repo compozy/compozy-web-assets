@@ -1,0 +1,1 @@
+var e={all:[`providers`],lists:()=>[...e.all,`list`],detail:t=>[...e.all,`detail`,t.trim()],authProbe:t=>[...e.all,`auth-probe`,t.trim()]};export{e as t};
