@@ -1,0 +1,1 @@
+import{n as e}from"./react-runtime-lVg9BFyb.js";import{t}from"./useQuery-DQvnLXDF.js";import{t as n}from"./query-options-CQvRpXRZ.js";var r=e();function i(e){let i=(0,r.c)(4),a;i[0]===e?a=i[1]:(a=e===void 0?{}:e,i[0]=e,i[1]=a);let o=a.enabled??!0,s;return i[2]===o?s=i[3]:(s=n(o),i[2]=o,i[3]=s),t(s)}export{i as t};
