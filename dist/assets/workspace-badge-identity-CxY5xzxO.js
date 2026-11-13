@@ -1,0 +1,1 @@
+import{d as e}from"./destination-Dh3Hyz3_.js";import{g as t}from"./active-workspace-store-itFvCrQt.js";function n(n,r){let i=e(n);return i.kind===`user`?{kind:`user`,name:t.user}:{kind:`project`,name:r.get(i.workspaceId)??i.workspaceId}}function r(){return{kind:`unknown`,name:t.unknownProject}}export{n,r as t};

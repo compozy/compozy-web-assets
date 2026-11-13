@@ -1,0 +1,1 @@
+import{t as e}from"./os-route-sync-ofywrINQ.js";var t=e(`files`);export{t as component};

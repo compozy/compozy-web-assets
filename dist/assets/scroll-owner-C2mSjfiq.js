@@ -1,0 +1,1 @@
+var e=`data-scroll-owner`,t=`compozy:scroll-restore`;function n(e){return e.isConnected&&e.closest(`[hidden]`)===null}export{t as n,n as r,e as t};
