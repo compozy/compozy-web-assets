@@ -1,0 +1,1 @@
+import{n as e}from"./react-runtime-lVg9BFyb.js";import{i as t,n,r}from"./use-palette-registry-CX5mIH90.js";import{l as i}from"./window-manager-shortcuts-C7jguMWr.js";var a=e();function o(){let e=(0,a.c)(4),o=n(),s;e[0]===o?s=e[1]:(s=t(o),e[0]=o,e[1]=s);let c=s,l;return e[2]===c?l=e[3]:(l=e=>r(e,c,i(navigator.platform),`terminal`)!==null,e[2]=c,e[3]=l),l}export{o as t};

@@ -1,0 +1,1 @@
+import{_ as e,g as t,n}from"./schemas-BwYKyQU5.js";var r=n([`registered`,`failed_in_use`,`failed_permission`,`unsupported`]),i=t({command_id:e().trim().min(1),intended_chord:e().trim().min(1),active_chord:e().trim().min(1).optional(),status:r,reason:e().optional(),settings_url:e().optional()}),a=i.extend({status:r.optional()});export{i as n,a as t};

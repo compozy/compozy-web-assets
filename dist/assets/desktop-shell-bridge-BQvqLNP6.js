@@ -1,0 +1,1 @@
+import{a as e}from"./schemas-BwYKyQU5.js";import{n as t}from"./window-manager-global-shortcut-schema-Bk0FTL6-.js";function n(n){return e(t).parse(n)}function r(){return typeof window>`u`?null:window.compozyShell??null}function i(){return r()!==null}export{i as n,n as r,r as t};
