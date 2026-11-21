@@ -1,0 +1,1 @@
+import{t as e}from"./os-route-sync-BSVmNX04.js";var t=e(`files`);export{t as component};

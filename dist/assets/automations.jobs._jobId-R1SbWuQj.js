@@ -1,1 +1,0 @@
-import{t as e}from"./os-route-sync-ofywrINQ.js";var t=e(`automations`);export{t as component};
