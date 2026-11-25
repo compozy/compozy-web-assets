@@ -1,1 +1,0 @@
-import{t as e,u as t}from"./useBaseQuery-DnCY3Nni.js";function n(n,r){return e(n,t,r)}export{n as t};

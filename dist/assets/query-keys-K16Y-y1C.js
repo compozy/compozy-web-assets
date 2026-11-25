@@ -1,0 +1,1 @@
+import{_ as e,v as t}from"./api-client-CF1_G98F.js";var n={all:t(e,`status`),identity:()=>[...n.all,`identity`],current:()=>[...n.all,`current`]};export{n as t};

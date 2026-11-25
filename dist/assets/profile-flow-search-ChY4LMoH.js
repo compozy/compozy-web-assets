@@ -1,0 +1,1 @@
+function e(e){if(typeof e!=`string`)return;let t=e.trim();return t===``?void 0:t}function t(t){let n=e(t.flow),r=e(t.profile),i=e(t.name),a=e(t.new_name);return{...n===void 0?{}:{flow:n},...r===void 0?{}:{profile:r},...i===void 0?{}:{name:i},...a===void 0?{}:{new_name:a}}}function n(e){let n=t(e);if(n.flow!==void 0)return{...n,flow:n.flow}}export{t as n,n as t};

@@ -1,0 +1,1 @@
+var e={all:[`account`],status:()=>[...e.all,`status`],devices:()=>[...e.all,`devices`],approvals:()=>[...e.all,`approvals`],tokens:()=>[...e.all,`tokens`]};export{e as t};

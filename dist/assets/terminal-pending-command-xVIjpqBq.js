@@ -1,0 +1,1 @@
+import{S as e}from"./api-client-CF1_G98F.js";var t=new Map;function n(t,n){return`${e(t)}\0${n}`}function r(e,r,i){let a=i.trim();r.trim()!==``&&a!==``&&t.set(n(e,r),a)}function i(e,r){let i=n(e,r),a=t.get(i)??null;return a!==null&&t.delete(i),a}function a(e,r){t.delete(n(e,r))}export{r as n,i as r,a as t};

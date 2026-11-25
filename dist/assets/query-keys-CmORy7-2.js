@@ -1,1 +1,0 @@
-var e={all:[`status`],identity:()=>[...e.all,`identity`],current:()=>[...e.all,`current`]};export{e as t};

@@ -1,0 +1,1 @@
+import{_ as e,v as t}from"./api-client-CF1_G98F.js";var n={all:t(e,`skills`),listScope:e=>[...n.all,`list`,e],list:(e,t)=>[...n.listScope(e),t??``],detail:(e,t,r)=>[...n.all,`detail`,e,t,r??``],content:(e,t,r)=>[...n.all,`content`,e,t,r??``],shadows:(e,t,r)=>[...n.all,`shadows`,e,t,r??``]};export{n as t};

@@ -1,1 +1,0 @@
-var e=`/settings`,t=`general`;function n(t){return`${e}/${t}`}var r={defaults:`general`};function i(e){return Object.hasOwn(r,e)?r[e]:null}function a(e){let t=e.search.command;return typeof t!=`string`||t.trim()===``||e.pathname.replace(/\/+$/,``)!==n(`layouts`)?null:{...e,pathname:n(`shortcuts`)}}export{n as a,a as i,e as n,i as r,t};

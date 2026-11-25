@@ -1,1 +1,0 @@
-var e={all:[`notifications`],attentionRoot:()=>[...e.all,`attention`],attention:t=>[...e.attentionRoot(),t]};export{e as t};
