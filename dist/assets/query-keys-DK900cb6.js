@@ -1,0 +1,1 @@
+import{_ as e,v as t}from"./api-client-DDHxU8iM.js";var n={all:t(e,`notifications`),attentionRoot:()=>[...n.all,`attention`],attention:e=>[...n.attentionRoot(),e]};export{n as t};

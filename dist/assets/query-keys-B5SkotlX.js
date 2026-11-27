@@ -1,1 +1,0 @@
-import{_ as e,v as t}from"./api-client-CF1_G98F.js";function n(n=e){let r=t(n,`providers`);return{all:r,lists:()=>[...r,`list`],detail:e=>[...r,`detail`,e.trim()],authProbe:e=>[...r,`auth-probe`,e.trim()]}}var r={...n(e),forComputer:n};export{r as t};

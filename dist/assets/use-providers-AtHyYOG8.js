@@ -1,0 +1,1 @@
+import{n as e}from"./react-runtime-lVg9BFyb.js";import{t}from"./useQuery-qlNgI09D.js";import{t as n}from"./query-options-D3EnAa-7.js";var r=e();function i(e){let i=(0,r.c)(2),a;return i[0]===e?a=i[1]:(a=n(e),i[0]=e,i[1]=a),t(a)}export{i as t};
